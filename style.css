@@ -21,7 +21,7 @@ body {
     width: 100vw;
     background: #dadada;
     position: relative;
-    background-image: url(./images/pg-p.png);
+    background-image: url(./pg-p.png);
     background-color: #dadada;
     background-size: cover;
     /* Scale image to cover the entire container */
@@ -52,7 +52,7 @@ body {
     width: 50%;
 
     border-radius: 50px;
-    background-image: url("./images/pg-p.png");
+    background-image: url("./pg-p.png");
     background-color: rgb(35, 30, 30);
     position: relative;
     object-fit: cover;
